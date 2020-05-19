@@ -1,2 +1,2 @@
 # alphabetical-order
- Find the lexicographic rank of a word
+ Find the alphabetical rank of a word in all the permutations of its letters
